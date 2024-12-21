@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=PA9 Pin=H1-3
+Removed Pin From Net: NetName=PA3 Pin=H3-2
+Removed Pin From Net: NetName=PA4 Pin=H3-3
+Removed Pin From Net: NetName=PB4 Pin=LED1-1
+Removed Pin From Net: NetName=PB5 Pin=LED2-1
+Removed Pin From Net: NetName=PA5 Pin=SW2-2
+Removed Pin From Net: NetName=PB10 Pin=SW3-2
+Removed Pin From Net: NetName=PB11 Pin=SW4-2
+Removed Pin From Net: NetName=PA8 Pin=U3-1
+Removed Pin From Net: NetName=PB15 Pin=U5-1
+Removed Pin From Net: NetName=PB14 Pin=U6-1
+Added Pin To Net: NetName=PA4 Pin=H1-3
+Added Pin To Net: NetName=PB14 Pin=H3-2
+Added Pin To Net: NetName=PB15 Pin=H3-3
+Added Pin To Net: NetName=PA3 Pin=LED1-1
+Added Pin To Net: NetName=PA2 Pin=LED2-1
+Added Pin To Net: NetName=PB9 Pin=SW2-2
+Added Pin To Net: NetName=PB8 Pin=SW3-2
+Added Pin To Net: NetName=PB4 Pin=SW4-2
+Added Pin To Net: NetName=PB10 Pin=U3-1
+Added Pin To Net: NetName=PB1 Pin=U5-1
+Added Pin To Net: NetName=PA7 Pin=U6-1
+Added Room: Name=Sheet1

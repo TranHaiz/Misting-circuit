@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=PB4 Pin=R1-1
+Removed Pin From Net: NetName=PB5 Pin=R2-1
+Removed Member From Class: ClassName=Sheet1 Member=R3
+Removed Member From Class: ClassName=Sheet1 Member=R4
+Change Component Designator: OldDesignator=R3 NewDesignator=R1
+Change Component Designator: OldDesignator=R4 NewDesignator=R2
+Added Pin To Net: NetName=PB4 Pin=LED1-1
+Added Pin To Net: NetName=PB5 Pin=LED2-1
+Added Room: Name=Sheet1

@@ -1,0 +1,26 @@
+Change Component Designator: OldDesignator=R1 NewDesignator=R2
+Change Component Designator: OldDesignator=SW1 NewDesignator=SW2
+Change Component Designator: OldDesignator=SW2 NewDesignator=SW3
+Change Component Designator: OldDesignator=SW3 NewDesignator=SW4
+Added Component: Designator=R1(SM-1206)
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=SW1(SW2)
+Add component (AddParameter): Name = "Value"; Value = "SW chip 2 pin"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PA11 Pin=H1-3
+Added Pin To Net: NetName=PA8 Pin=H2-2
+Added Pin To Net: NetName=PA9 Pin=H2-3
+Added Pin To Net: NetName=RESET Pin=R1-1
+Added Pin To Net: NetName=3.3V Pin=R1-2
+Added Pin To Net: NetName=GND Pin=SW1-1
+Added Pin To Net: NetName=RESET Pin=SW1-2
+Added Pin To Net: NetName=PA3 Pin=SW2-2
+Added Pin To Net: NetName=PA5 Pin=SW3-2
+Added Pin To Net: NetName=PA7 Pin=SW4-2
+Added Pin To Net: NetName=PB12 Pin=U3-1
+Added Pin To Net: NetName=PB13 Pin=U5-1
+Added Pin To Net: NetName=PB14 Pin=U6-1
+Added Pin To Net: NetName=PA13 Pin=J2-DATA
+Added Net: Name=PA13
+Added Member To Class: ClassName=Sheet1 Member=Component R2 1k
+Added Member To Class: ClassName=Sheet1 Member=Component SW4 SW
+Added Room: Name=Sheet1
