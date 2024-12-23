@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=PA4 Pin=R1-1
+Removed Pin From Net: NetName=PB4 Pin=SW2-2
+Removed Pin From Net: NetName=PB4 Pin=SW3-2
+Removed Pin From Net: NetName=PB4 Pin=U4-45
+Removed Pin From Net: NetName=PB4 Pin=U4-46
+Change Component Designator: OldDesignator=R5 NewDesignator=R7
+Change Component Designator: OldDesignator=R6 NewDesignator=R8
+Added Component: Designator=R5(SM-1206)
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=R6(SM-1206)
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=R5-2
+Added Pin To Net: NetName=5V Pin=R6-2
+Added Pin To Net: NetName=PB8 Pin=R6-1
+Added Pin To Net: NetName=PB8 Pin=SW3-2
+Added Pin To Net: NetName=PB8 Pin=U4-45
+Added Net: Name=PB8
+Added Pin To Net: NetName=PB9 Pin=R5-1
+Added Pin To Net: NetName=PB9 Pin=SW2-2
+Added Pin To Net: NetName=PB9 Pin=U4-46
+Added Net: Name=PB9
+Added Member To Class: ClassName=Sheet1 Member=Component R1 1k
+Added Member To Class: ClassName=Sheet1 Member=Component R2 1k
+Added Member To Class: ClassName=Sheet1 Member=Component R3 1k
+Added Member To Class: ClassName=Sheet1 Member=Component R5 1k
+Added Member To Class: ClassName=Sheet1 Member=Component R7 1k
+Added Member To Class: ClassName=Sheet1 Member=Component R8 1k
+Added Room: Name=Sheet1

@@ -1,0 +1,11 @@
+Change Component Designator: OldDesignator=R4 NewDesignator=R5
+Added Component: Designator=R4(SM-1206)
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PB4 Pin=R4-1
+Added Pin To Net: NetName=5V Pin=R4-2
+Added Pin To Net: NetName=PB4 Pin=SW2-2
+Added Pin To Net: NetName=PB4 Pin=SW3-2
+Added Pin To Net: NetName=PB4 Pin=U4-45
+Added Pin To Net: NetName=PB4 Pin=U4-46
+Added Member To Class: ClassName=Sheet1 Member=Component R5 1k
+Added Room: Name=Sheet1
