@@ -1,0 +1,24 @@
+Change Component Designator: OldDesignator=R1 NewDesignator=R5
+Added Component: Designator=R1(TRO SMD 0603)
+Added Component: Designator=R2(TRO SMD 0603)
+Added Component: Designator=R3(TRO SMD 0603)
+Added Component: Designator=R4(TRO SMD 0603)
+Added Component: Designator=SW4(SW2)
+Add component (AddParameter): Name = "Value"; Value = "SW chip 2 pin"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PB9 Pin=R1-1
+Added Pin To Net: NetName=3.3V Pin=R1-2
+Added Pin To Net: NetName=PB8 Pin=R2-1
+Added Pin To Net: NetName=3.3V Pin=R2-2
+Added Pin To Net: NetName=PB4 Pin=R3-1
+Added Pin To Net: NetName=3.3V Pin=R3-2
+Added Pin To Net: NetName=RESET Pin=R4-1
+Added Pin To Net: NetName=3.3V Pin=R4-2
+Added Pin To Net: NetName=GND Pin=SW4-1
+Added Pin To Net: NetName=RESET Pin=SW4-2
+Added Member To Class: ClassName=Sheet1.~(27) Member=Component H2 DHT22
+Added Member To Class: ClassName=Sheet1.~(27) Member=Component R2 1k
+Added Member To Class: ClassName=Sheet1.~(27) Member=Component R3 1k
+Added Member To Class: ClassName=Sheet1.~(27) Member=Component R4 1k
+Added Member To Class: ClassName=Sheet1.~(27) Member=Component R5 1k
+Added Member To Class: ClassName=Sheet1.~(27) Member=Component SW4 SW
+Added Room: Name=Sheet1.~(27)

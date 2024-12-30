@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=PB4 Pin=H3-2
+Removed Pin From Net: NetName=PB5 Pin=H3-3
+Removed Pin From Net: NetName=PB9 Pin=R1-1
+Removed Pin From Net: NetName=PB8 Pin=R2-1
+Removed Pin From Net: NetName=PB4 Pin=R3-1
+Removed Pin From Net: NetName=PB9 Pin=SW1-2
+Removed Pin From Net: NetName=PB8 Pin=SW2-2
+Removed Pin From Net: NetName=PB4 Pin=SW3-2
+Added Pin To Net: NetName=PA15 Pin=H3-2
+Added Pin To Net: NetName=PB3 Pin=H3-3
+Added Pin To Net: NetName=PB4 Pin=R1-1
+Added Pin To Net: NetName=PB5 Pin=R2-1
+Added Pin To Net: NetName=PB6 Pin=R3-1
+Added Pin To Net: NetName=PB4 Pin=SW1-2
+Added Pin To Net: NetName=PB5 Pin=SW2-2
+Added Pin To Net: NetName=PB6 Pin=SW3-2
+Added Room: Name=Sheet1.~(27)

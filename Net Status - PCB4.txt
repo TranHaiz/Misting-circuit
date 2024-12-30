@@ -1,0 +1,63 @@
+Net Status Report
+Filename     : C:\NGOL_HAq\phun_suong\PCB4.PcbDoc
+Date         : 12/30/2024
+Time         : 4:19:55 PM
+Time Elapsed : 00:00:00
+
+Nets, Layer, Length
+    3.3V, Signal Layers Only, 0mils
+    5V, Signal Layers Only, 131.12mils
+    BOOT0, Signal Layers Only, 0mils
+    BOOT1, Signal Layers Only, 0mils
+    GND, Signal Layers Only, 0mils
+    NetC7_2, Signal Layers Only, 0mils
+    NetD1_1, Signal Layers Only, 0mils
+    NetD2_1, Signal Layers Only, 0mils
+    NetD3_1, Signal Layers Only, 0mils
+    NetL1_1, Signal Layers Only, 0mils
+    NetL2_1, Signal Layers Only, 0mils
+    NetQ1_2, Signal Layers Only, 0mils
+    NetQ2_2, Signal Layers Only, 0mils
+    NetQ3_2, Signal Layers Only, 0mils
+    PA0, Signal Layers Only, 0mils
+    PA1, Signal Layers Only, 0mils
+    PA10, Signal Layers Only, 0mils
+    PA11, Signal Layers Only, 0mils
+    PA12, Signal Layers Only, 0mils
+    PA15, Signal Layers Only, 0mils
+    PA2, Signal Layers Only, 0mils
+    PA3, Signal Layers Only, 0mils
+    PA4, Signal Layers Only, 0mils
+    PA5, Signal Layers Only, 0mils
+    PA6, Signal Layers Only, 0mils
+    PA7, Signal Layers Only, 0mils
+    PA8, Signal Layers Only, 0mils
+    PA9, Signal Layers Only, 0mils
+    PB0, Signal Layers Only, 0mils
+    PB1, Signal Layers Only, 0mils
+    PB10, Signal Layers Only, 0mils
+    PB11, Signal Layers Only, 0mils
+    PB12, Signal Layers Only, 276.861mils
+    PB13, Signal Layers Only, 695.726mils
+    PB14, Signal Layers Only, 662.458mils
+    PB15, Signal Layers Only, 0mils
+    PB3, Signal Layers Only, 0mils
+    PB4, Signal Layers Only, 0mils
+    PB5, Signal Layers Only, 0mils
+    PB6, Signal Layers Only, 0mils
+    PB7, Signal Layers Only, 0mils
+    PB8, Signal Layers Only, 0mils
+    PB9, Signal Layers Only, 0mils
+    PC13, Signal Layers Only, 0mils
+    PC14, Signal Layers Only, 104.459mils
+    PC15, Signal Layers Only, 100.186mils
+    PD0, Signal Layers Only, 0mils
+    PD1, Signal Layers Only, 0mils
+    RESET, Signal Layers Only, 0mils
+    SWDCLK, Signal Layers Only, 0mils
+    SWDIO, Signal Layers Only, 0mils
+    VBAT, Signal Layers Only, 0mils
+    fan, Signal Layers Only, 0mils
+    voi 1, Signal Layers Only, 0mils
+    voi 2, Signal Layers Only, 0mils
+count : 55

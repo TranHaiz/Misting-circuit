@@ -1,0 +1,52 @@
+Added Component: Designator=J2(DHT22)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/DHT22/Aosong+Electronics/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Aosong Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "DHT22"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/DHT22/Aosong+Electronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U1(MODULE_DM-OLED096-636)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/DM-OLED096-636/Display+Module/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Display Module"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "DM-OLED096-636"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/DM-OLED096-636/Display+Module/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U2(SOT94P279X129-5N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/RT9193-33GB/Richtek+USA+Inc./view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "1028-1014-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Richtek USA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RT9193-33GB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23-5 Richtek"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/RT9193-33GB/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RT9193-33GB/Richtek+USA+Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Y1(XTAL_ABS07-32.768KHZ-T)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ABS07-32.768KHZ-T/Abracon+LLC/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Abracon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ABS07-32.768KHZ-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD-2 Abracon LLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/ABS07-32.768KHZ-T/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ABS07-32.768KHZ-T/Abracon+LLC/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PA13 Pin=J2-DATA
+Added Pin To Net: NetName=GND Pin=J2-GND
+Added Pin To Net: NetName=5V Pin=J2-VDD
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=5V Pin=U1-2
+Added Pin To Net: NetName=PB6 Pin=U1-3
+Added Pin To Net: NetName=PB7 Pin=U1-4
+Added Pin To Net: NetName=5V Pin=U2-1
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=5V Pin=U2-3
+Added Pin To Net: NetName=NetC7_2 Pin=U2-4
+Added Pin To Net: NetName=3.3V Pin=U2-5
+Added Pin To Net: NetName=PC15 Pin=Y1-1
+Added Pin To Net: NetName=PC14 Pin=Y1-2
+Added Member To Class: ClassName=Sheet1.~(27) Member=Component J2 DHT22
+Added Member To Class: ClassName=Sheet1.~(27) Member=Component U1 DM-OLED096-636
+Added Member To Class: ClassName=Sheet1.~(27) Member=Component U2 RT9193-33GB
+Added Member To Class: ClassName=Sheet1.~(27) Member=Component Y1 ABS07-32.768KHZ-T
+Added Room: Name=Sheet1.~(27)

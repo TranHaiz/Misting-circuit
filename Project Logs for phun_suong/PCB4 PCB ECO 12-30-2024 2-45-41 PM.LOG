@@ -1,0 +1,41 @@
+Added Component: Designator=J1(HRO_TYPE-C-31-M-12)
+Add component (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/TYPE-C-31-M-12/HRO+Electronics+Co.%252C+Ltd./view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "HRO Electronics Co., Ltd."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TYPE-C-31-M-12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TYPE-C-31-M-12/HRO+Electronics+Co.%252C+Ltd./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found DHT22
+Add Component: Footprint Not Found MODULE_DM-OLED096-636
+Add Component: Footprint Not Found SOT94P279X129-5N
+Add Component: Footprint Not Found XTAL_ABS07-32.768KHZ-T
+Added Pin To Net: NetName=GND Pin=J1-A1_B12
+Added Pin To Net: NetName=5V Pin=J1-A4_B9
+Added Pin To Net: NetName=GND Pin=J1-B1_A12
+Added Pin To Net: NetName=5V Pin=J1-B4_A9
+Added Pin To Net: NetName=GND Pin=J1-S1
+Added Pin To Net: NetName=GND Pin=J1-S2
+Added Pin To Net: NetName=GND Pin=J1-S3
+Added Pin To Net: NetName=GND Pin=J1-S4
+Add Pin To Net: Unknown Pin: Pin J2-DATA
+Add Pin To Net: Unknown Pin: Pin J2-GND
+Add Pin To Net: Unknown Pin: Pin J2-VDD
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-2
+Add Pin To Net: Unknown Pin: Pin U1-3
+Add Pin To Net: Unknown Pin: Pin U1-4
+Add Pin To Net: Unknown Pin: Pin U2-1
+Add Pin To Net: Unknown Pin: Pin U2-2
+Add Pin To Net: Unknown Pin: Pin U2-3
+Add Pin To Net: Unknown Pin: Pin U2-4
+Add Pin To Net: Unknown Pin: Pin U2-5
+Add Pin To Net: Unknown Pin: Pin Y1-1
+Add Pin To Net: Unknown Pin: Pin Y1-2
+Added Member To Class: ClassName=Sheet1.~(27) Member=Component J1 TYPE-C-31-M-12
+Add Class Member: Failed to add class member : Component J2 DHT22
+Add Class Member: Failed to add class member : Component U1 DM-OLED096-636
+Add Class Member: Failed to add class member : Component U2 RT9193-33GB
+Add Class Member: Failed to add class member : Component Y1 ABS07-32.768KHZ-T
+Added Room: Name=Sheet1.~(27)

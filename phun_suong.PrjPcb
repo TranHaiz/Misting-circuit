@@ -49,23 +49,6 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=Sheet1.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=0
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=SBEZPZGQ
-
-[Document2]
 DocumentPath=PCB1.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -82,7 +65,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OIYLRNKN
 
-[Document3]
+[Document2]
 DocumentPath=PCB2.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -99,24 +82,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IPWDLROW
 
-[Document4]
-DocumentPath=phun_suong.OutJob
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document5]
+[Document3]
 DocumentPath=PCB3.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -133,6 +99,40 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BRBRSWSL
 
+[Document4]
+DocumentPath=PCB4.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=NDVANNAA
+
+[Document5]
+DocumentPath=Sheet1.~(27).SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=0
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=SBEZPZGQ
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for phun_suong\Design Rule Check - PCB1.html
 DItemRevisionGUID=
@@ -143,6 +143,10 @@ DItemRevisionGUID=
 
 [GeneratedDocument3]
 DocumentPath=Project Outputs for phun_suong\Design Rule Check - PCB3.html
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for phun_suong\Design Rule Check - PCB4.html
 DItemRevisionGUID=
 
 [Configuration1]

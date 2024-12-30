@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=DR NewDesignator=H3
+Added Pin To Net: NetName=PA1 Pin=H2-2
+Added Member To Class: ClassName=Sheet1.~(27) Member=Component R1 1k
+Added Room: Name=Sheet1.~(27)
